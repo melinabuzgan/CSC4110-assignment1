@@ -1,5 +1,5 @@
-#Github and git confilct”.
-# Github and git
+# CSC-4110 Assignment01
+## Melina Buzgan
+### hk3398
 
-Melina Buzgan -hk3398
 
